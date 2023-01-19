@@ -1,0 +1,73 @@
+/* .conteiner{
+    width: 0;
+    height: 0;
+    border-top: 50px solid orange;
+    border-left: 50px solid yellow;
+    border-right: 50px solid red ;
+    border-bottom: 50px solid green;
+    
+  
+} 
+
+.room{
+    width: 0; 
+    height: 0;
+    border-top: 50px solid orange;
+    border-left: 50px solid yellow;
+    border-right: 50px solid red ;
+    border-bottom: 50px solid green;
+    border-bottom-left-radius: 40px;
+  
+}
+
+.and{
+    width: 0;
+    height: 0;
+    border-top: 50px solid orange;
+    border-left: 50px solid yellow;
+    border-right: 50px solid red ;
+    border-bottom: 50px solid green;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+   
+}
+
+
+.suport{
+    width: 0;
+    height: 0;
+    border-top: 50px solid orange;
+    border-left: 50px solid yellow;
+    border-right: 50px solid red ;
+    border-bottom: 50px solid green;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+.style{
+    width: 0;
+    height: 0;
+    border-top: 50px solid orange;
+    border-left: 50px solid yellow;
+    border-right: 50px solid red ;
+    border-bottom: 50px solid green;
+    border-radius: 50px;
+
+}
+ */
+
+.outch{
+  margin-left: 500px;
+  margin-top: 30px;
+}
+
+.ilova{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.box{
+    margin-left: 500px;
+    margin-top: 30px;
+}
